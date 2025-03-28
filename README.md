@@ -29,7 +29,7 @@ A full-stack project that connects businesses with skilled professionals, inspir
 - **GitHub:** [@avishekkarn](https://github.com/avishekkarn)
 - **LinkedIn:** [www.linkedin.com/in/avishek-karn](https://www.linkedin.com/in/avishek-karn)
 - **HackerRank:** [@avishek_np09](https://www.hackerrank.com/profile/avishek_np09)
-- **Email:** *Coming Soon*
+- **Email:** avishek.np09@gmail.com
 
 ### 📌 **Next Steps & Goals**
 - Master advanced React concepts (Redux, Context API, Server Components)
